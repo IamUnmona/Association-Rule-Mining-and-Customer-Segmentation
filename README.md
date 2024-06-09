@@ -1,4 +1,4 @@
-# Association-Rule-Mining-and-Customer-Segmentation
+# Association_Rule_Mining_and_Customer_Segmentation
 This project delves into the applications of association rule mining and customer segmentation analytics. The primary aim is to harness data-driven insights to uncover patterns and segmentations that can inform strategic business decisions.
 Association Rule Mining:
 I analyze transaction data from a store’s Stationary and Health and Beauty Aids departments to discover relationships between different products. Utilizing the Apriori algorithm, I identify frequent itemsets and generate association rules based on confidence and lift metrics. This analysis helps in understanding customer purchasing patterns, optimizing product placement, and developing targeted marketing strategies.
